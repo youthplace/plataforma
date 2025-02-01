@@ -193,6 +193,13 @@ body {}
     margin-top: 10px;
     margin-bottom: 5px;
 }
+
+.main-logo{
+    margin-top: 10px;
+    width: 200px;
+    height: 60px;
+}
+
 #sidebar.active .sidebar-header .main-logo{
 	display:none;
 }

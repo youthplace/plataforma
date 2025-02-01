@@ -119,3 +119,13 @@
 .educate-price-tags:before {
   content: "\e936";
 }
+
+.lamp-icon::before {
+  content: "";
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('../img/bulb.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
